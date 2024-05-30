@@ -1,0 +1,61 @@
+.produtos1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-flex;
+    text-align: center;
+
+}
+
+.produtos2{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-flex;
+    text-align: center;
+}
+
+.produtos{
+    background-color: azure;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ffcfe7;
+}
+
+.barra {
+    margin: 0px;
+    padding: 0px;
+    gap: 30px;
+    display: inline-flex;
+    font-size: 15px;
+}
+
+.cadastrese{
+    background-color: azure; width: 150px;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.luffy{
+    background-color: azure; width: 150px;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    text-align: center;
+}
+
+address {
+    background-color: azure;
+    margin: 15px;
+    border-radius: 30px;
+    text-align: center;
+}

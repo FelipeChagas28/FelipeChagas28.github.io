@@ -1,0 +1,39 @@
+
+.cadastro{
+    background-color: azure; width: 150px;
+    text-align: center; 
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.produtos{
+    background-color: azure; width: 150px;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.sobre{
+    background-color: azure;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ffcfe7;
+}
+
+address {
+    background-color: azure;
+    margin: 15px;
+    border-radius: 30px;
+    text-align: center;
+}

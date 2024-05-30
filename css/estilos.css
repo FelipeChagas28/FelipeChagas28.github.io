@@ -1,13 +1,20 @@
 .sobre {
-
-
     text-align: center;
 }
 
 .body {
     background-color: rgb(172, 172, 172);
+    margin: 0px;
 }
 
-.form-group {
-    background-color: green;
+
+.Projetos {
+    background-color: rgb(233, 236, 239);
+}
+
+.contatos {
+    padding: 100px;
+    background-color: rgb(172, 172, 172);
+    display: flex;
+    justify-content: center;
 }

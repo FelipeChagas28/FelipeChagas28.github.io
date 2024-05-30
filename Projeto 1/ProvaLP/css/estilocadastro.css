@@ -1,0 +1,46 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ffcfe7;
+}
+
+.roupas{
+    background-color: azure; width: 150px;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.Luffy{
+    background-color: azure; width: 150px;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.barra {
+    margin: 0px;
+    padding: 0px;
+    gap: 30px;
+    display: inline-flex;
+    font-size: 15px;
+}
+
+.cadastro {
+    background-color: azure;
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+address {
+    background-color: azure;
+    margin: 15px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}

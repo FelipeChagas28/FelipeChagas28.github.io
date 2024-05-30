@@ -1,0 +1,45 @@
+table {
+    border-collapse:collapse;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+    width: 100%;
+    margin: 2% 0 2% 0;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .3);
+    cursor: default;
+    text-align: center;
+}
+
+table thead tr
+{
+    background: #000;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 2%;
+}
+
+table tbody td, table thead th { padding: 10px; }
+
+table tbody td {border-bottom: 1px solid #ddd; }
+
+table tbody tr:hover{
+    background-color: purple; cursor: wait ;
+}
+
+.zebra {background: #0f5d74;}
+
+.zebra2 {background: #0b4e64;}
+
+.img {
+    -webkit-border-radius: 5px;
+    border-radius: 7px;
+}
+
+.coringao1 {
+    align-self: left;
+}
+
+.coringao2 {
+   text-align: right;
+}
